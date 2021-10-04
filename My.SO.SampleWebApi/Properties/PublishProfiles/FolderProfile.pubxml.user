@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\so-sample</_PublishTargetUrl>
+    <History>True|2021-10-04T13:13:52.3446777Z;True|2021-10-04T13:16:22.8231038+01:00;False|2021-10-04T13:16:11.7725013+01:00;True|2021-10-04T13:12:13.4114336+01:00;True|2021-10-04T13:10:55.2183315+01:00;True|2021-10-04T13:06:25.7042348+01:00;True|2021-10-04T13:04:13.2145900+01:00;True|2021-10-04T12:47:09.4042567+01:00;False|2021-10-04T12:46:47.5533791+01:00;False|2021-10-04T12:46:39.3639496+01:00;True|2021-10-04T12:44:57.9294672+01:00;False|2021-10-04T12:44:48.9903613+01:00;True|2021-10-04T12:35:30.5829649+01:00;</History>
+  </PropertyGroup>
+</Project>
